@@ -1,5 +1,8 @@
 function shortcut(s1, s2) {
   // your code here
+	if(!s1 || !s2){
+		return "";
+	}
 }
 
 // Do not change the code below.
